@@ -1,6 +1,6 @@
 # Hi there, I'm Milind 👋
 
-![AI Banner](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
+![AI/ML Banner](https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif)
 
 I am a passionate **Machine Learning** and **Artificial Intelligence** enthusiast currently pursuing my **Master's in Computer Science (MCS)** from **Arizona State University**. With over **10 years of experience** in the **semiconductor industry**, I've worked on numerous **data-driven projects**, focusing on extracting actionable insights through innovative technologies. I'm always looking for ways to apply my skills to solve real-world challenges using **Machine Learning**.
 
@@ -50,6 +50,13 @@ I am a passionate **Machine Learning** and **Artificial Intelligence** enthusias
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  
+### **Databases**
+
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 <h3 align="center">A passionate frontend developer from India</h3>
