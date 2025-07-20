@@ -1,6 +1,6 @@
 # Hi there, I'm Milind 👋
 
-![Milind's Banner](https://media.giphy.com/media/3o6ZsVvG2nFzANXs2g/giphy.gif)
+![AI Banner](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
 
 I am a passionate **Machine Learning** and **Artificial Intelligence** enthusiast currently pursuing my **Master's in Computer Science (MCS)** from **Arizona State University**. With over **10 years of experience** in the **semiconductor industry**, I've worked on numerous **data-driven projects**, focusing on extracting actionable insights through innovative technologies. I'm always looking for ways to apply my skills to solve real-world challenges using **Machine Learning**.
 
