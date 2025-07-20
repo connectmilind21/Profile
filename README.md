@@ -120,7 +120,8 @@ Feel free to reach out for collaborations, projects, or if you're interested in 
 
 ## 🎥 Watch My Work in Action:
 
-![AI/ML Neural Net Banner](https://link-to-your-hosted-banner.png)
+![AI/ML Banner](https://media.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif)
+
 
 ---
 
