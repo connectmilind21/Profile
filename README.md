@@ -59,7 +59,7 @@ I am a passionate **Machine Learning** and **Artificial Intelligence** enthusias
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milind&label=Profile%20views&color=0e75b6&style=flat" alt="milind" /> </p>
 
@@ -84,9 +84,15 @@ I am a passionate **Machine Learning** and **Artificial Intelligence** enthusias
 
 ## 📈 Projects
 
-1. **[Semiconductor Performance Prediction](https://github.com/milind/semiconductor-performance)**: Developed a model to predict semiconductor component performance based on historical data using machine learning techniques.
-2. **[CNN for Image Classification](https://github.com/milind/cnn-image-classification)**: Built a **Convolutional Neural Network (CNN)** to classify images into categories such as cars, animals, and more.
-3. **[NLP with BERT for Text Classification](https://github.com/milind/nlp-bert)**: Applied **BERT** for classifying text data and improving accuracy in **sentiment analysis** and **named entity recognition** tasks.
+1. **[Machine Learning: Personal Loan Campaign](https://github.com/connectmilind21/Machine-Learning-Personal-Loan-Campaign)**: Developed a model to predict customer response to personal loan offers using logistic regression and decision trees for targeted marketing.
+
+2. **[AML: Credit Card Users Churn Prediction](https://github.com/connectmilind21/AML-Credit-Card-Users-Churn-Prediction)**: Built a regularized **Artificial Neural Network (ANN)** to identify churn-prone credit card users and provide actionable retention strategies.
+
+3. **[NLP: Stock Market News Sentiment Analysis & Summarization](https://github.com/connectmilind21/NLP-Stock-Market-News-Sentiment-Analysis-and-Summarization)**: Applied **transformers** and **large language models** to analyze stock news sentiment and generate weekly summaries to inform investment decisions.
+
+4. **[ANN: Bank Customer Churn Prediction](https://github.com/connectmilind21/ANN-Bank-Customer-Churn-Prediction)**: Created a **neural network** using TensorFlow/Keras to predict churn in banking customers, supporting operations with data-driven insights.
+
+5. **[CNN: Plants Seedling Classification](https://github.com/connectmilind21/CNN-Plants-Seedling-Classification)**: Designed a **Convolutional Neural Network (CNN)** to classify plant seedlings and weeds, helping improve agricultural efficiency and reduce manual effort.
 
 ---
 
