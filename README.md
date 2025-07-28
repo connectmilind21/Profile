@@ -125,11 +125,6 @@ Feel free to reach out for collaborations, projects, or if you're interested in 
 
 ---
 
-## 📊 GitHub Stats
-
-![Milind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milind&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
-
----
 
 > "Machine Learning is the art of teaching machines to learn from data and create meaningful insights." — **Milind**
 
