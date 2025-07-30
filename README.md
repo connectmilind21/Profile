@@ -108,8 +108,6 @@ I am a passionate **Machine Learning** and **Artificial Intelligence** enthusias
 
 📫 **Email**: [connectmilind21@gmail.com](mailto:milind@example.com)
 
-🔗 **LinkedIn**: [Milind Parab](https://www.linkedin.com/in/milindparab/)
-
 🌐 **Portfolio**: [Milind's Portfolio](https://olympus.mygreatlearning.com/eportfolio)
 
 💼 **Leetcode**: [Leetelligence]https://leetcode.com/u/Leetelligence/)
