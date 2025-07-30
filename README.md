@@ -112,7 +112,7 @@ I am a passionate **Machine Learning** and **Artificial Intelligence** enthusias
 
 🌐 **Portfolio**: [Milind's Portfolio](https://olympus.mygreatlearning.com/eportfolio)
 
-💼 **Resume**: [Wix Resume](https://milindparab.wixsite.com/profile/resume)
+💼 **Leetcode**: [Leetelligence]https://leetcode.com/u/Leetelligence/)
 
 Feel free to reach out for collaborations, projects, or if you're interested in discussing the future of **AI** and **Machine Learning**!
 
